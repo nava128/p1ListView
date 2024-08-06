@@ -6,3 +6,6 @@ Propiedades de ListView Flutter
 
 # Listview onTap con print
 ![image](https://github.com/user-attachments/assets/0c713239-4655-4f68-8924-7eca07569a64)
+
+ # lisview con clase
+ ![image](https://github.com/user-attachments/assets/6f280601-fa01-46c0-a916-e9dd25f4a49d)
